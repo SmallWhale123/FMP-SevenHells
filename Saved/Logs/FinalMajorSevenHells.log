@@ -1593,3 +1593,22 @@ LogConfig: Set CVar [[r.setres:1280x720]]
 [2024.03.04-19.09.35:328][589]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/K1/O58CUZ81QZVYA37SUP7FJJ_Auto1
 [2024.03.04-19.09.35:329][589]LogSavePackage: Moving '../../../../../Files/Documents/Unreal Projects/FinalMajorSevenHells/Saved/O58CUZ81QZVYA37SUP7FJJ_Auto1C820648F400BFE7CB35F57A71E366375.tmp' to '../../../../../Files/Documents/Unreal Projects/FinalMajorSevenHells/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/K1/O58CUZ81QZVYA37SUP7FJJ_Auto1.uasset'
 [2024.03.04-19.09.35:330][589]LogFileHelpers: Auto-saving content packages took 0.005
+[2024.03.04-19.13.21:848][475]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.03.04-19.13.21:881][475]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2024.03.04-19.13.21:890][475]LogContentBrowser: Creating deferred item: NewBlueprint
+[2024.03.04-19.13.21:929][477]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2024.03.04-19.13.24:485][664]LogContentBrowser: Attempting asset rename: NewBlueprint -> Test
+[2024.03.04-19.13.24:595][664]LogContentBrowser: End creating deferred item NewBlueprint
+[2024.03.04-19.13.27:787][893]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.04-19.13.27:864][893]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/QF/KPK4JA9AY8QAGSKXBJPSXN
+[2024.03.04-19.13.27:864][893]LogSavePackage: Moving '../../../../../Files/Documents/Unreal Projects/FinalMajorSevenHells/Saved/KPK4JA9AY8QAGSKXBJPSXNF8AB545443B554B9DB79198B7FAE9102.tmp' to '../../../../../Files/Documents/Unreal Projects/FinalMajorSevenHells/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/QF/KPK4JA9AY8QAGSKXBJPSXN.uasset'
+[2024.03.04-19.13.27:870][893]LogWorldPartition: Can't find class descriptor '/Game/AI/WeakZombie_Character.WeakZombie_Character_C' for saving '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WeakZombie_Character_C_UAID_F46D0454F4AD46DF01_1448297967'
+[2024.03.04-19.13.27:872][893]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/GA/FQ1044ZI9U5DD6N0Y3A65F
+[2024.03.04-19.13.27:872][893]LogSavePackage: Moving '../../../../../Files/Documents/Unreal Projects/FinalMajorSevenHells/Saved/FQ1044ZI9U5DD6N0Y3A65FBCF8A0FD459DB5A5A31E2C88486D269D.tmp' to '../../../../../Files/Documents/Unreal Projects/FinalMajorSevenHells/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/GA/FQ1044ZI9U5DD6N0Y3A65F.uasset'
+[2024.03.04-19.13.27:885][893]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/DF/OV1435GPWCFVKTVTRAFFTR
+[2024.03.04-19.13.27:885][893]LogSavePackage: Moving '../../../../../Files/Documents/Unreal Projects/FinalMajorSevenHells/Saved/OV1435GPWCFVKTVTRAFFTRED12885F4886D1EAB8F4A3A195A5E9C8.tmp' to '../../../../../Files/Documents/Unreal Projects/FinalMajorSevenHells/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/DF/OV1435GPWCFVKTVTRAFFTR.uasset'
+[2024.03.04-19.13.27:908][893]LogFileHelpers: InternalPromptForCheckoutAndSave took 120 ms (total: 2.97 sec)
+[2024.03.04-19.13.27:913][893]AssetCheck: New page: Asset Save: multiple assets
+[2024.03.04-19.13.27:913][893]LogContentValidation: Display: Validating /Script/NavigationSystem.NavMeshBoundsVolume /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.NavMeshBoundsVolume_UAID_F46D0454F4AD46DF01_1458962968
+[2024.03.04-19.13.27:913][893]LogContentValidation: Display: Validating /Game/AI/WeakZombie_Character.WeakZombie_Character_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WeakZombie_Character_C_UAID_F46D0454F4AD46DF01_1448297967
+[2024.03.04-19.13.27:913][893]LogContentValidation: Display: Validating /Script/NavigationSystem.RecastNavMesh /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.RecastNavMesh_UAID_F46D0454F4AD46DF01-Default

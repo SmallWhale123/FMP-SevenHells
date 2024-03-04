@@ -5,7 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"D:/Files/Documents/Unreal Projects/FinalMajorSevenHells/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+				"D:/Files/Documents/Unreal Projects/FinalMajorSevenHells/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"D:/Files/Documents/Unreal Projects/FinalMajorSevenHells/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/QF/KPK4JA9AY8QAGSKXBJPSXN.uasset",
+				"D:/Files/Documents/Unreal Projects/FinalMajorSevenHells/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/GA/FQ1044ZI9U5DD6N0Y3A65F.uasset",
+				"D:/Files/Documents/Unreal Projects/FinalMajorSevenHells/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/DF/OV1435GPWCFVKTVTRAFFTR.uasset"
 			]
 		}
 	]
