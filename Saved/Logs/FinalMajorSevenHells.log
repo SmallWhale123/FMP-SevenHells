@@ -1612,3 +1612,24 @@ LogConfig: Set CVar [[r.setres:1280x720]]
 [2024.03.04-19.13.27:913][893]LogContentValidation: Display: Validating /Script/NavigationSystem.NavMeshBoundsVolume /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.NavMeshBoundsVolume_UAID_F46D0454F4AD46DF01_1458962968
 [2024.03.04-19.13.27:913][893]LogContentValidation: Display: Validating /Game/AI/WeakZombie_Character.WeakZombie_Character_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WeakZombie_Character_C_UAID_F46D0454F4AD46DF01_1448297967
 [2024.03.04-19.13.27:913][893]LogContentValidation: Display: Validating /Script/NavigationSystem.RecastNavMesh /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.RecastNavMesh_UAID_F46D0454F4AD46DF01-Default
+[2024.03.04-19.19.35:818][ 54]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2024.03.04-19.19.35:820][ 54]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.013
+[2024.03.04-19.19.35:822][ 54]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/Mesh/Test] ([2] browsable assets)...
+[2024.03.04-19.19.35:822][ 54]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/Mesh/Test]
+[2024.03.04-19.19.35:822][ 54]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/Mesh/Test" FILE="../../../../../Files/Documents/Unreal Projects/FinalMajorSevenHells/Saved/Autosaves/Game/AI/Mesh/Test_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2024.03.04-19.19.36:496][ 54]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/AI/Mesh/Test_Auto2
+[2024.03.04-19.19.36:496][ 54]LogSavePackage: Moving '../../../../../Files/Documents/Unreal Projects/FinalMajorSevenHells/Saved/Test_Auto2CB60420540A463F492964D91A2435392.tmp' to '../../../../../Files/Documents/Unreal Projects/FinalMajorSevenHells/Saved/Autosaves/Game/AI/Mesh/Test_Auto2.uasset'
+[2024.03.04-19.19.36:498][ 54]LogFileHelpers: Auto-saving content packages took 0.678
+[2024.03.04-19.19.57:744][462]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2024.03.04-19.19.57:755][462]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.04-19.19.57:817][462]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/Mesh/Test" FILE="../../../../../Files/Documents/Unreal Projects/FinalMajorSevenHells/Content/AI/Mesh/Test.uasset" SILENT=true
+[2024.03.04-19.19.57:823][462]LogSavePackage: Moving output files for package: /Game/AI/Mesh/Test
+[2024.03.04-19.19.57:823][462]LogSavePackage: Moving '../../../../../Files/Documents/Unreal Projects/FinalMajorSevenHells/Saved/TestAF46D076474A7CDE9ECA5E923D0D1714.tmp' to '../../../../../Files/Documents/Unreal Projects/FinalMajorSevenHells/Content/AI/Mesh/Test.uasset'
+[2024.03.04-19.19.57:842][462]LogFileHelpers: InternalPromptForCheckoutAndSave took 86 ms (total: 3.06 sec)
+[2024.03.04-19.19.57:846][462]AssetCheck: New page: Asset Save: Test
+[2024.03.04-19.19.57:846][462]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/AI/Mesh/Test.Test
+[2024.03.04-19.20.40:916][886]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2024.03.04-19.20.41:995][886]LogSlate: Window 'Delete Assets' being destroyed
+[2024.03.04-19.20.42:232][886]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2024.03.04-19.20.42:242][886]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2024.03.04-19.20.42:251][886]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
